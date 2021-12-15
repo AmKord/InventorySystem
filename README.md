@@ -1,3 +1,6 @@
+checkin using  **git commit --no-verify** to avoid linting to stop the checkin
+
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
