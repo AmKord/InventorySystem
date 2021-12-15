@@ -1,4 +1,4 @@
-checkin using  **git commit --no-verify** to avoid linting to stop the checkin
+checkin using  **git commit --no-verify** to avoid linting to stop the checkin Or you can remove it completely from .git/hooks.
 
 
 <img src=".erb/img/erb-banner.svg" width="100%" />
